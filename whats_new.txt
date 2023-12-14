@@ -1,1 +1,10 @@
-Version 1.0 Initial version:
+Version 1.9 Changelog:
+New Features:
+
+Added an Option to Turn Off Automatic Update Check: Users can now control whether the add-on checks for updates automatically.
+Improvements:
+
+Improved reliability and performance of backup restoration.
+Bug Fixes:
+
+Addressed and fixed various bugs to ensure smoother operation.
