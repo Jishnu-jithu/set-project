@@ -2,8 +2,7 @@
 
 ## Introduction
 
-The Set Project add-on is a valuable tool designed to streamline project management within Blender, catering specifically to VFX students and addon developers. It acts as a comprehensive toolbox, empowering users to enhance organization, save time, and maintain project efficiency.
-
+The “Set Project” is a powerful and user-friendly addon for Blender that enhances your workflow and productivity. Inspired by the project management features in Maya, this addon introduces a new feature that allows you to set the project in a more organized and efficient manner.
 
 ## Key Features
 
@@ -12,7 +11,6 @@ The Set Project add-on is a valuable tool designed to streamline project managem
 - **Saving Options**: Customize file names, compression settings, and path remapping.
 - **Folder Updates**: Keep projects up-to-date with automatic or manual folder refresh options.
 - **User-Friendly Interface**: Intuitive design and simple controls make project management easy.
-
 
 ## Simple Workflow
 
