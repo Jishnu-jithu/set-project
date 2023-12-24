@@ -1,5 +1,7 @@
 # Set Project Add-on
 
+![Github](https://github.com/Jishnu-jithu/set-project/assets/145359279/592059f0-8024-4c6c-97a4-1ce6cb47683f)
+
 ## Introduction
 
 The “Set Project” is a powerful and user-friendly addon for Blender that enhances your workflow and productivity. Inspired by the project management features in Maya, this addon introduces a new feature that allows you to set the project in a more organized and efficient manner.
