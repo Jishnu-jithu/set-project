@@ -3,7 +3,7 @@
 <p align="center">
   <kbd>
     <br>
-    <a href="https://www.blendermarket.com/products/last-used-modifiers">Get it on BlenderMarket</a>
+    <a href="https://www.blendermarket.com/products/last-used-modifiers">‏‏‎ ‎‎Get it on BlenderMarket ‎</a>
     <br>
     <br>
   </kbd>
