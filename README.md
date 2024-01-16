@@ -1,15 +1,15 @@
+<h1 align="center">Set Project - Blender Add-On</h1>
+
 ![Github](https://github.com/Jishnu-jithu/set-project/assets/145359279/592059f0-8024-4c6c-97a4-1ce6cb47683f)
 
 <p align="center">
   <kbd>
     <br>
-    <a href="https://www.blendermarket.com/products/last-used-modifiers">‏‏‎ ‎‎Get it on BlenderMarket ‎</a>
+    <a href="https://www.blendermarket.com/products/last-used-modifiers">Get it on BlenderMarket‎</a>
     <br>
     <br>
   </kbd>
 </p>
-
-# Set Project Blender Add-on
 
 The “Set Project” is a powerful and user-friendly addon for Blender that enhances your workflow and productivity. Inspired by the project management features in Maya, this addon introduces a new feature that allows you to set the project in a more organized and efficient manner.
 
