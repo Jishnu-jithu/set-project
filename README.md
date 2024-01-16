@@ -16,6 +16,7 @@ The “Set Project” is a powerful and user-friendly addon for Blender that enh
 ## Key Features
 
 - **Presets**: Choose from default settings or create custom presets for your projects.
+
 - **Project Organization**: Effortlessly manage project names, locations, and folders.
 - **Saving Options**: Customize file names, compression settings, and path remapping.
 - **Folder Updates**: Keep projects up-to-date with automatic or manual folder refresh options.
@@ -24,6 +25,7 @@ The “Set Project” is a powerful and user-friendly addon for Blender that enh
 ## Simple Workflow
 
 1. **Set Project Details**: Begin by defining your project name and location.
+
 2. **Folder Management**: Add or delete folders to structure your project effectively.
 3. **Saving Customization**: Tailor saving options to meet your specific project needs.
 4. **Save Project**: Click the "Save Project" button to finalize your project setup.
